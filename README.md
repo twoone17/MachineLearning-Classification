@@ -1,4 +1,4 @@
-# MachinLearing-Classification
+# MachineLearing-Classification
 
 <h2>Dataset:
 The Wisconsin Cancer Dataset</h2>
