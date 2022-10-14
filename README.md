@@ -63,4 +63,5 @@ AutoML(scaler, encoder, model, df_label, df_target)
 <h2>
 Result :
 <h2/>
+    
 ![image](https://user-images.githubusercontent.com/84762786/195777185-ece7a9d3-1f27-47b3-88af-5505f1532367.png)
